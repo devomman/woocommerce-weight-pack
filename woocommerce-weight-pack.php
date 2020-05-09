@@ -9,7 +9,6 @@
  */
 
 
-// Added By Omman - Start Here - 4
 // Set Per KG Or Box Create a Custom field from "Add New Custom Field:" "unit_price" = Custom Price For this Level
 /**
 * Displays the custom text field input field in the WooCommerce product data meta box
@@ -101,5 +100,3 @@ function add_js_lock_fields_unit_price( $ids ){
     return $ids;
 }
 
-// Added By Omman - End Here - 4
-// ===================================================================
