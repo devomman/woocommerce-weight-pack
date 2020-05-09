@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Woocommerce Weight Pack
- * Plugin URI: https://github.com/omman
+ * Plugin URI: https://github.com/omman/woocommerce-weight-pack
  * Description: Woocommerce Weight Pack For KG, Support For All the pages Ex, Shop, Cart, Checkout, Review, My Account, Email.
  * Version: 1.0
  * Author: Muhmmad Omman Parvez (devomman)
- * Author URI: http://www.devomman.com
+ * Author URI: https://github.com/omman/
  */
 
 
